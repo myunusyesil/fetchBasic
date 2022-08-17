@@ -1,3 +1,4 @@
+// selecting buttons
 
 const btnText = document.querySelector('#button1');
 const btnJSON = document.querySelector('#button2');
